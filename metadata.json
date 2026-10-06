@@ -1,0 +1,6 @@
+{
+  "name": "Maison Vael — Atelier Pret-à-Porter",
+  "description": "Minimalist luxury clothing brand featuring architectural tailoring, fine knitwear, and timeless wardrobe essentials with an elegant shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
